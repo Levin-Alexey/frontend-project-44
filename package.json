@@ -18,6 +18,10 @@
     "brain-prime": "bin/brain-prime.js"
   },
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.49.0"
   }
 }
